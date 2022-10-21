@@ -7,6 +7,6 @@ The Organization will study mathematics in the areas of quantity, structure, cha
 
 Temporarily host the website on GH2 and GitHub
 
-Temporary contact information
+Temporary contact information : 
 
     CompletionMath@outlook.com
